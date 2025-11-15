@@ -1,4 +1,3 @@
-// rce
 import React from 'react'
 
 export class EstacaoClimatica extends React.Component {
